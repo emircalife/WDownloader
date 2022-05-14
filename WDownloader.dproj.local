@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/11 09:08:45.000.349,=C:\Users\emirc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 09:09:21.000.594,C:\Users\emirc\Desktop\WDownloader\uWDownloader.pas=C:\Users\emirc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 09:09:21.000.595,C:\Users\emirc\Desktop\WDownloader\uWDownloader.dfm=C:\Users\emirc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/11 09:09:26.000.709,C:\Users\emirc\Desktop\WDownloader\WDownloader.dproj=C:\Users\emirc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/11 09:09:43.000.043,=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 09:10:25.000.782,C:\Users\emirc\Desktop\WDownloader\uClsLogDownload.pas=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 10:07:13.000.756,=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 10:07:28.000.587,C:\Users\emirc\Desktop\WDownloader\uWDownloaderThread.pas=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 10:19:24.000.754,=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 10:26:38.000.267,C:\Users\emirc\Desktop\WDownloader\uDM.dfm=C:\Users\emirc\Desktop\WDownloader\Unit1.dfm</Transaction>
+    <Transaction>2022/05/11 10:26:38.000.267,C:\Users\emirc\Desktop\WDownloader\uDM.pas=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 15:41:52.000.326,C:\Users\emirc\Desktop\WDownloader\uClsLogDownload.pas=</Transaction>
+    <Transaction>2022/05/11 15:42:40.000.282,=C:\Users\emirc\Desktop\WDownloader\uClsLogDownload.pas</Transaction>
+    <Transaction>2022/05/11 17:16:50.000.025,=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 17:17:27.000.069,C:\Users\emirc\Desktop\WDownloader\uHistoricoDownloads.dfm=C:\Users\emirc\Desktop\WDownloader\Unit1.dfm</Transaction>
+    <Transaction>2022/05/11 17:17:27.000.069,C:\Users\emirc\Desktop\WDownloader\uHistoricoDownloads.pas=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:34:10.000.820,=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 14:34:33.000.749,C:\Users\emirc\Desktop\WDownloader\util.download.pas=C:\Users\emirc\Desktop\WDownloader\Unit1.pas</Transaction>
+    <Transaction>2022/05/14 05:14:24.983,C:\Users\emirc\Desktop\WDownloader\uWDownloaderThread.pas=</Transaction>
+    <Transaction>2022/05/14 05:23:50.481,=C:\Users\emirc\Desktop\WDownloader\uWDownloaderThread.pas</Transaction>
+    <Transaction>2022/05/14 05:23:57.733,C:\Users\emirc\Desktop\WDownloader\uWDownloaderThread.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
